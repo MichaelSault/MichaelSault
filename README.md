@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 #  Michael Sault
 [![Linkedin Badge](https://img.shields.io/badge/-michaelsault-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michaelsault/)](https://www.linkedin.com/in/michaelsault/)[![Gmail Badge](https://img.shields.io/badge/-michael_sault@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:michael_sault@hotmail.com)](mailto:michael_sault@hotmail.com)
 
-**He/him**
-
 Remember to add a bio
 
 ## My Technical "Stack"

@@ -59,7 +59,7 @@ Remember to add a bio
         </td>
   </tr>
   <tr>
-    <td>Database</td>
+    <td>Databasing</td>
     <td>
         <a href="https://www.mongodb.com/3" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg"  alt="mongodb" width="40" height="40"/> </a>
     </td>

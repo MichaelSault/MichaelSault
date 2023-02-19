@@ -49,9 +49,9 @@ Remember to add a bio
         <td> Web Development</td>
         <td>
           <a href="https://reactjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg"  alt="react" width="40" height="40"/> </a>
+          <a href="https://nodejs.org/en/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg"  alt="nodejs" width="40" height="40"/> </a>
         </td>
         <td>
-          <a href="https://nodejs.org/en/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg"  alt="nodejs" width="40" height="40"/> </a>
           <a href="https://expressjs.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg"  alt="express" width="40" height="40"/> </a>
         </td>
         <td>
@@ -61,7 +61,7 @@ Remember to add a bio
   <tr>
     <td>Databasing</td>
     <td>
-        <p> Microsoft SQL (MSQL) </p>
+        <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg"  alt="Microsoft SQL" width="40" height="40"/> </a>
     </td>
     <td>
         <a href="https://www.mongodb.com/3" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg"  alt="mongodb" width="40" height="40"/> </a>

@@ -3,9 +3,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working on Learning the MERN Stack
+- 🌱 I’m currently learning Full Stack Development
+- 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 #  Michael Sault
 [![Linkedin Badge](https://img.shields.io/badge/-michaelsault-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michaelsault/)](https://www.linkedin.com/in/michaelsault/)[![Gmail Badge](https://img.shields.io/badge/-michael_sault@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:michael_sault@hotmail.com)](mailto:michael_sault@hotmail.com)
 
-Remember to add a bio
+Full Stack Developer - MERN Stack
 
 ## My Technical "Stack"
 [![OS](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=windows&logoColor=white)](https://en.wikipedia.org/wiki/Microsoft_Windows)

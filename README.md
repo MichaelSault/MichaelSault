@@ -51,6 +51,7 @@ Full Stack Developer - MERN Stack
       <a href="https://www.java.com/en/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg"  alt="java" width="40" height="40"/> </a>
       <a href="https://processing.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/processing-1.svg"  alt="processing" width="40" height="40"/> </a>
       <a href="https://www.python.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg"  alt="python" width="40" height="40"/> </a>  
+      <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/powershell.svg"  alt="powershell" width="40" height="40"/> </a>
     </td>
   </tr> 
 

@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 Full Stack Developer - MERN Stack
 
-## My Technical "Stack"
+## My Technical Stack
 [![OS](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=windows&logoColor=white)](https://en.wikipedia.org/wiki/Microsoft_Windows)
 [![OS](https://img.shields.io/badge/OS-Mac-informational?style=flat-square&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/macOS)
 [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
